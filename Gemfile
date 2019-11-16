@@ -76,3 +76,6 @@ gem 'bootstrap-sass'
 
 # rails04で追加したgem
 gem 'bcrypt'
+
+# rails06で追加
+gem "carrierwave"
